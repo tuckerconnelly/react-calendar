@@ -1,0 +1,2 @@
+export const PICK_START_DATE = 'PICK_START_DATE'
+export const PICK_END_DATE = 'PICK_END_DATE'
